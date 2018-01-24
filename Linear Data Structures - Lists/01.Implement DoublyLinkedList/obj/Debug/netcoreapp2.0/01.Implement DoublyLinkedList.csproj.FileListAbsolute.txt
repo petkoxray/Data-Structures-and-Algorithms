@@ -1,0 +1,10 @@
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/bin/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.deps.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/bin/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.runtimeconfig.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/bin/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.runtimeconfig.dev.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/bin/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/bin/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.pdb
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/obj/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.csproj.CoreCompileInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/obj/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.AssemblyInfoInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/obj/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.AssemblyInfo.cs
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/obj/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/01.Implement DoublyLinkedList/obj/Debug/netcoreapp2.0/01.Implement DoublyLinkedList.pdb

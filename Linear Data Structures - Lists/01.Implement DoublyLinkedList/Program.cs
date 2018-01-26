@@ -90,6 +90,7 @@ public class DoublyLinkedList<T> : IEnumerable<T>
 
         var lastElementValue = this.tail.Value;
         this.tail = this.tail.Previous;
+        
         if (this.tail != null)
         {
             this.tail.Next = null;

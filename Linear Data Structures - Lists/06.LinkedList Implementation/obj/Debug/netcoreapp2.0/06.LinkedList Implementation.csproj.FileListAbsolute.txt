@@ -1,0 +1,10 @@
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/bin/Debug/netcoreapp2.0/06.LinkedList Implementation.deps.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/bin/Debug/netcoreapp2.0/06.LinkedList Implementation.runtimeconfig.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/bin/Debug/netcoreapp2.0/06.LinkedList Implementation.runtimeconfig.dev.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/bin/Debug/netcoreapp2.0/06.LinkedList Implementation.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/bin/Debug/netcoreapp2.0/06.LinkedList Implementation.pdb
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/obj/Debug/netcoreapp2.0/06.LinkedList Implementation.csproj.CoreCompileInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/obj/Debug/netcoreapp2.0/06.LinkedList Implementation.AssemblyInfoInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/obj/Debug/netcoreapp2.0/06.LinkedList Implementation.AssemblyInfo.cs
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/obj/Debug/netcoreapp2.0/06.LinkedList Implementation.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/06.LinkedList Implementation/obj/Debug/netcoreapp2.0/06.LinkedList Implementation.pdb

@@ -1,0 +1,10 @@
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/bin/Debug/netcoreapp2.0/03.Sort Words.deps.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/bin/Debug/netcoreapp2.0/03.Sort Words.runtimeconfig.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/bin/Debug/netcoreapp2.0/03.Sort Words.runtimeconfig.dev.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/bin/Debug/netcoreapp2.0/03.Sort Words.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/bin/Debug/netcoreapp2.0/03.Sort Words.pdb
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/obj/Debug/netcoreapp2.0/03.Sort Words.csproj.CoreCompileInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/obj/Debug/netcoreapp2.0/03.Sort Words.AssemblyInfoInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/obj/Debug/netcoreapp2.0/03.Sort Words.AssemblyInfo.cs
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/obj/Debug/netcoreapp2.0/03.Sort Words.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/03.Sort Words/obj/Debug/netcoreapp2.0/03.Sort Words.pdb

@@ -1,0 +1,10 @@
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/bin/Debug/netcoreapp2.0/02.Sum and Average.deps.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/bin/Debug/netcoreapp2.0/02.Sum and Average.runtimeconfig.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/bin/Debug/netcoreapp2.0/02.Sum and Average.runtimeconfig.dev.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/bin/Debug/netcoreapp2.0/02.Sum and Average.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/bin/Debug/netcoreapp2.0/02.Sum and Average.pdb
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/obj/Debug/netcoreapp2.0/02.Sum and Average.csproj.CoreCompileInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/obj/Debug/netcoreapp2.0/02.Sum and Average.AssemblyInfoInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/obj/Debug/netcoreapp2.0/02.Sum and Average.AssemblyInfo.cs
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/obj/Debug/netcoreapp2.0/02.Sum and Average.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/02.Sum and Average/obj/Debug/netcoreapp2.0/02.Sum and Average.pdb

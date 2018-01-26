@@ -1,0 +1,10 @@
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/bin/Debug/netcoreapp2.0/05.Reversed List Implementation.deps.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/bin/Debug/netcoreapp2.0/05.Reversed List Implementation.runtimeconfig.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/bin/Debug/netcoreapp2.0/05.Reversed List Implementation.runtimeconfig.dev.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/bin/Debug/netcoreapp2.0/05.Reversed List Implementation.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/bin/Debug/netcoreapp2.0/05.Reversed List Implementation.pdb
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/obj/Debug/netcoreapp2.0/05.Reversed List Implementation.csproj.CoreCompileInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/obj/Debug/netcoreapp2.0/05.Reversed List Implementation.AssemblyInfoInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/obj/Debug/netcoreapp2.0/05.Reversed List Implementation.AssemblyInfo.cs
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/obj/Debug/netcoreapp2.0/05.Reversed List Implementation.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/05.Reversed List Implementation/obj/Debug/netcoreapp2.0/05.Reversed List Implementation.pdb

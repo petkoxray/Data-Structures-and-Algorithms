@@ -1,0 +1,10 @@
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/bin/Debug/netcoreapp2.0/04.Remove ODD Occurence.deps.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/bin/Debug/netcoreapp2.0/04.Remove ODD Occurence.runtimeconfig.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/bin/Debug/netcoreapp2.0/04.Remove ODD Occurence.runtimeconfig.dev.json
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/bin/Debug/netcoreapp2.0/04.Remove ODD Occurence.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/bin/Debug/netcoreapp2.0/04.Remove ODD Occurence.pdb
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/obj/Debug/netcoreapp2.0/04.Remove ODD Occurence.csproj.CoreCompileInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/obj/Debug/netcoreapp2.0/04.Remove ODD Occurence.AssemblyInfoInputs.cache
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/obj/Debug/netcoreapp2.0/04.Remove ODD Occurence.AssemblyInfo.cs
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/obj/Debug/netcoreapp2.0/04.Remove ODD Occurence.dll
+/home/petkoxray/Projects/Data-Structures-and-Algorithms/Linear Data Structures - Lists/04.Remove ODD Occurence/obj/Debug/netcoreapp2.0/04.Remove ODD Occurence.pdb

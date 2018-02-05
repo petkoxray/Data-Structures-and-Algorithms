@@ -1,0 +1,6 @@
+C:\Users\petko\Desktop\codding\trees\Binary-Tree\bin\Debug\Trees.exe
+C:\Users\petko\Desktop\codding\trees\Binary-Tree\bin\Debug\Trees.pdb
+C:\Users\petko\Desktop\codding\trees\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\petko\Desktop\codding\trees\Binary-Tree\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\petko\Desktop\codding\trees\Binary-Tree\obj\Debug\Trees.exe
+C:\Users\petko\Desktop\codding\trees\Binary-Tree\obj\Debug\Trees.pdb
